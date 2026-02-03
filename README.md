@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou a Pamella! 👋
 
-<!--
-**PamellaMoraes/PamellaMoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Programadora no commit do dia a dia
+Construindo consistência e aprendendo através da prática diária. Acredito que a maestria vem da repetição e do código vivo.
 
-Here are some ideas to get you started:
+🐍 Apaixonada por Python
+Minha linguagem de escolha. Amo a simplicidade, a potência e as possibilidades que o ecossistema Python oferece.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 QA em Transição de Carreira
+Atualmente focada em unir meu background de desenvolvimento com a mentalidade de Qualidade. Meu objetivo é garantir que cada linha de código entregue o valor que o usuário merece.
+
+---
+
+🛠️ No que estou trabalhando:
+- 🧪 Aprofundando em estratégias de teste e cultura de QA.
+- 🐍 Desenvolvendo automações e scripts com Python.
+- 📁 Organizando meus próximos projetos para exibição.
+
+---
+📫Como me encontrar:
+pamellamoraes.f@gmail.com
