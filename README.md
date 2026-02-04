@@ -1,6 +1,6 @@
 # Olá, eu sou a Pamella! 👋
 
-💻 Programadora no commit do dia a dia
+💻 Programadora no commit do dia a dia.
 Construindo consistência e aprendendo através da prática diária. Acredito que a maestria vem da repetição e do código vivo.
 
 🐍 Apaixonada por Python
