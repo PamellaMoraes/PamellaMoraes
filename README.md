@@ -3,10 +3,9 @@
 💻 Programadora no commit do dia a dia.
 Construindo consistência e aprendendo através da prática diária. Acredito que a maestria vem da repetição e do código vivo.
 
-🐍 Apaixonada por Python
-Minha linguagem de escolha. Amo a simplicidade, a potência e as possibilidades que o ecossistema Python oferece.
+🐍 Apaixonada por Python. Amo a simplicidade, a potência e as possibilidades que o ecossistema Python oferece.
 
-🎯 QA em Transição de Carreira
+🎯 QA em Transição de Carreira.
 Atualmente focada em unir meu background de desenvolvimento com a mentalidade de Qualidade. Meu objetivo é garantir que cada linha de código entregue o valor que o usuário merece.
 
 ---
