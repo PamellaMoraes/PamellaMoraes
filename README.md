@@ -23,8 +23,7 @@
   <a href="https://pamellamoraes.github.io/QA-Projects/">
     <img src="https://img.shields.io/badge/Portfólio_QA-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=810081" alt="Portfólio QA">
   </a>
-  <br>
-  &nbsp;&nbsp;
+  &nbsp;<br>
   <a href="https://pamellamoraes.github.io/Desenvolvimento-Web/">
     <img src="https://img.shields.io/badge/Portfólio_Web-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=009a00" alt="Portfólio Web">
   </a>
