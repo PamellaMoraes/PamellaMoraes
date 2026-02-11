@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left">
-  💻 <strong>Programadora no commit do dia a dia.</strong> Construindo consistência e aprendendo através da prática diária. Acredito que a maestria vem da reprodução e do código vivo.<br><br>
+  💻 <strong>Programadora no commit do dia a dia.</strong> Construindo e aprendendo através da prática diária.<br><br>
   🐍 <strong>Apaixonada por Python.</strong> Temos a simplicidade, a potência e as possibilidades que o ecossistema Python oferece.<br><br>
   🎯 <strong>QA em Transição de Carreira.</strong> Atualmente focada em unir meu histórico de desenvolvimento com uma mentalidade de Qualidade. Meu objetivo é garantir que cada linha de código entregue o valor que o usuário merece.
 </p>
@@ -20,6 +20,8 @@
   <a href="URL_DO_SEU_REPO_QA">
     <img src="https://img.shields.io/badge/🛡️_QA-Garantia_de_Qualidade-000000?style=for-the-badge&logoColor=D500F9&labelColor=000000&color=D500F9" alt="QA Portfolio">
   </a>
+  <br>
+  <br>
   <br>
   <a href="URL_DO_SEU_REPO_WEB">
     <img src="https://img.shields.io/badge/🌐_Web-Desenvolvimento-000000?style=for-the-badge&logoColor=D500F9&labelColor=000000&color=D500F9" alt="Web Portfolio">
