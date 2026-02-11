@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠️ No que estou trabalhando:
+### 🛠️ Atualmente estou:
 * 🧪 Aprofundando em estratégias de teste e cultura de QA.
 * 🐍 Desenvolvendo automatizações e scripts com Python.
 * 📁 Organizando meus próximos projetos para exibição.
