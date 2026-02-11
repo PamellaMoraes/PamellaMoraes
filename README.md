@@ -20,7 +20,7 @@
 <h3 align="left">📂 Portfólio:</h3>
 <p align="left">
   <a href="URL_DO_SEU_REPO_QA">
-    <img src="https://img.shields.io/badge/Portfólio_QA-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=810081" alt="Portfólio QA">
+    <img src="https://img.shields.io/badge/Portfólio_QA-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=810081" alt="Portfólio QA" (https://pamellamoraes.github.io/QA-Projects/)>
   </a>
   <br>
   &nbsp;&nbsp;
