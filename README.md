@@ -10,13 +10,18 @@
 
 ### 🚀 MEUS AMBIENTES DE PROJETOS
 
-<a href="https://pamellamoraes.github.io/Desenvolvimento-Web/" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=&message=ACESSAR_PORTFÓLIO_WEB&color=white&logo=google-chrome&logoColor=0077B5&labelColor=white&style=for-the-badge" alt="Portfólio Web">
-</a>
+<div align="center">
+  <h3>🚀 MEUS AMBIENTES DE PROJETOS</h3>
+  <p><i>Clique nos botões abaixo para acessar as versões online:</i></p>
 
-<a href="https://pamellamoraes.github.io/QA_Garantia_de_Qualidade/" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=&message=VER_DOCUMENTAÇÃO_QA&color=white&logo=checkmarx&logoColor=0077B5&labelColor=white&style=for-the-badge" alt="Portfólio QA">
-</a>
+  <a href="https://pamellamoraes.github.io/Desenvolvimento-Web/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfólio_Web-Acessar_Interface-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfólio Web">
+  </a>
+  
+  <br class="mobile-break"> <a href="https://pamellamoraes.github.io/QA_Garantia_de_Qualidade/" target="_blank">
+    <img src="https://img.shields.io/badge/🛡️_Portfólio_QA-Ver_Documentação-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Portfólio QA">
+  </a>
+</div>
 
 ---
 
