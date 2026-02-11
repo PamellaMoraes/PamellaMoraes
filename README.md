@@ -32,5 +32,5 @@
 <br>
 
 <p align="left">
-  📫 <strong>Como encontrar:</strong> pamellamoraes.f@gmail.com
+  📫 pamellamoraes.f@gmail.com
 </p>
