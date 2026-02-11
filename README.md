@@ -1,5 +1,7 @@
 <h1 align="left">
-  <span style="color: #D500F9;">Olá, eu sou a Pamella! 👋</span>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=810081&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Pamella!+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
 </h1>
 
 <p align="left">
@@ -18,17 +20,17 @@
 <h3 align="left">📂 Portfólio:</h3>
 <p align="left">
   <a href="URL_DO_SEU_REPO_QA">
-    <img src="https://img.shields.io/badge/🛡️_QA-Garantia_de_Qualidade-000000?style=for-the-badge&logoColor=D500F9&labelColor=000000&color=D500F9" alt="QA Portfolio">
+    <img src="https://img.shields.io/badge/Portfólio_QA-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=810081" alt="Portfólio QA">
   </a>
   <br>
-  <br>
-  <br>
+  &nbsp;&nbsp;
   <a href="URL_DO_SEU_REPO_WEB">
-    <img src="https://img.shields.io/badge/🌐_Web-Desenvolvimento-000000?style=for-the-badge&logoColor=D500F9&labelColor=000000&color=D500F9" alt="Web Portfolio">
+    <img src="https://img.shields.io/badge/Portfólio_Web-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=009a00" alt="Portfólio Web">
   </a>
 </p>
 
 <br>
+
 <p align="left">
   📫 <strong>Como encontrar:</strong> pamellamoraes.f@gmail.com
 </p>
