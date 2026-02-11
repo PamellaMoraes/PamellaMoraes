@@ -1,34 +1,32 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B5&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Pamella!+%F0%9F%91%8B;QA+em+Transi%C3%A7%C3%A3o;Dev+Front-End" alt="Typing SVG" />
+<h1 align="left">
+  <span style="color: #D500F9;">Olá, eu sou a Pamella! 👋</span>
+</h1>
 
-💻 **Programadora no commit do dia a dia.** Construindo consistência e aprendendo através da prática diária. Acredito que a maestria vem da reprodução e do código vivo.
+<p align="left">
+  💻 <strong>Programadora no commit do dia a dia.</strong> Construindo consistência e aprendendo através da prática diária. Acredito que a maestria vem da reprodução e do código vivo.<br><br>
+  🐍 <strong>Apaixonada por Python.</strong> Temos a simplicidade, a potência e as possibilidades que o ecossistema Python oferece.<br><br>
+  🎯 <strong>QA em Transição de Carreira.</strong> Atualmente focada em unir meu histórico de desenvolvimento com uma mentalidade de Qualidade. Meu objetivo é garantir que cada linha de código entregue o valor que o usuário merece.
+</p>
 
-🐍 **Apaixonada por Python.** Amo a simplicidade, a potência e as possibilidades que o ecossistema Python oferece.
+<h3 align="left">🛠️ O que estou fazendo agora:</h3>
+<p align="left">
+  🧪 Aprofundando em estratégias de teste e cultura de QA.<br>
+  🐍 Desenvolvendo automatizações e scripts com Python.<br>
+  📁 Organizando meus próximos projetos para exibição.
+</p>
 
-🎯 **QA em Transição de Carreira.** Atualmente focada em unir meu histórico de desenvolvimento com uma mentalidade de Qualidade. Meu objetivo é garantir que cada linha de código entregue o valor que o usuário merece.
-
----
-
-### 🚀 MEUS AMBIENTES DE PROJETOS
-
-<div align="center">
-  <h3>🚀 MEUS AMBIENTES DE PROJETOS</h3>
-  <p><i>Clique nos botões abaixo para acessar as versões online:</i></p>
-
-  <a href="https://pamellamoraes.github.io/Desenvolvimento-Web/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfólio_Web-Acessar_Interface-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfólio Web">
+<h3 align="left">📂 Portfólio:</h3>
+<p align="left">
+  <a href="URL_DO_SEU_REPO_QA">
+    <img src="https://img.shields.io/badge/🛡️_QA-Garantia_de_Qualidade-000000?style=for-the-badge&logoColor=D500F9&labelColor=000000&color=D500F9" alt="QA Portfolio">
   </a>
-  
-  <br class="mobile-break"> <a href="https://pamellamoraes.github.io/QA_Garantia_de_Qualidade/" target="_blank">
-    <img src="https://img.shields.io/badge/🛡️_Portfólio_QA-Ver_Documentação-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Portfólio QA">
+  <br>
+  <a href="URL_DO_SEU_REPO_WEB">
+    <img src="https://img.shields.io/badge/🌐_Web-Desenvolvimento-000000?style=for-the-badge&logoColor=D500F9&labelColor=000000&color=D500F9" alt="Web Portfolio">
   </a>
-</div>
+</p>
 
----
-
-### 🛠️ No que estou trabalhando:
-* 🧪 Aprofundando em estratégias de teste e cultura de QA.
-* 🐍 Desenvolvendo automatizações e scripts com Python.
-* 📁 Organizando meus próximos projetos para exibição.
-
-### 📫 Como encontrar:
-* 📧 **E-mail:** [pamellamoraes.f@gmail.com](mailto:pamellamoraes.f@gmail.com)
+<br>
+<p align="left">
+  📫 <strong>Como encontrar:</strong> pamellamoraes.f@gmail.com
+</p>
