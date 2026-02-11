@@ -19,12 +19,12 @@
 
 <h3 align="left">📂 Portfólio:</h3>
 <p align="left">
-  <a href="https://pamellamoraes.github.io/QA-Projects/">
+  <a href="https://pamellamoraes.github.io/QA-Projects/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio_QA-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=810081" alt="Portfólio QA">
   </a>
   <br>
   &nbsp;&nbsp;
-  <a href="https://pamellamoraes.github.io/Desenvolvimento-Web/">
+  <a href="https://pamellamoraes.github.io/Desenvolvimento-Web/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio_Web-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=009a00" alt="Portfólio Web">
   </a>
 </p>
